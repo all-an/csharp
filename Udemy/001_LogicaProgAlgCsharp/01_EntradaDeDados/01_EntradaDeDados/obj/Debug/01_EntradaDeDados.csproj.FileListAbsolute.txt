@@ -1,0 +1,7 @@
+C:\Users\Public\csharp\Udemy\001_LogicaProgAlgCsharp\01_EntradaDeDados\01_EntradaDeDados\bin\Debug\01_EntradaDeDados.exe.config
+C:\Users\Public\csharp\Udemy\001_LogicaProgAlgCsharp\01_EntradaDeDados\01_EntradaDeDados\bin\Debug\01_EntradaDeDados.exe
+C:\Users\Public\csharp\Udemy\001_LogicaProgAlgCsharp\01_EntradaDeDados\01_EntradaDeDados\bin\Debug\01_EntradaDeDados.pdb
+C:\Users\Public\csharp\Udemy\001_LogicaProgAlgCsharp\01_EntradaDeDados\01_EntradaDeDados\obj\Debug\01_EntradaDeDados.csproj.AssemblyReference.cache
+C:\Users\Public\csharp\Udemy\001_LogicaProgAlgCsharp\01_EntradaDeDados\01_EntradaDeDados\obj\Debug\01_EntradaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\Public\csharp\Udemy\001_LogicaProgAlgCsharp\01_EntradaDeDados\01_EntradaDeDados\obj\Debug\01_EntradaDeDados.exe
+C:\Users\Public\csharp\Udemy\001_LogicaProgAlgCsharp\01_EntradaDeDados\01_EntradaDeDados\obj\Debug\01_EntradaDeDados.pdb
