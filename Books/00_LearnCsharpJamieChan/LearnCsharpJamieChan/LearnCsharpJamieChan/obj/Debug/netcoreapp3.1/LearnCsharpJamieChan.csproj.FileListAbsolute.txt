@@ -1,0 +1,14 @@
+C:\Users\Public\csharp\Books\00_LearnCsharpJamieChan\LearnCsharpJamieChan\LearnCsharpJamieChan\bin\Debug\netcoreapp3.1\LearnCsharpJamieChan.exe
+C:\Users\Public\csharp\Books\00_LearnCsharpJamieChan\LearnCsharpJamieChan\LearnCsharpJamieChan\bin\Debug\netcoreapp3.1\LearnCsharpJamieChan.deps.json
+C:\Users\Public\csharp\Books\00_LearnCsharpJamieChan\LearnCsharpJamieChan\LearnCsharpJamieChan\bin\Debug\netcoreapp3.1\LearnCsharpJamieChan.runtimeconfig.json
+C:\Users\Public\csharp\Books\00_LearnCsharpJamieChan\LearnCsharpJamieChan\LearnCsharpJamieChan\bin\Debug\netcoreapp3.1\LearnCsharpJamieChan.runtimeconfig.dev.json
+C:\Users\Public\csharp\Books\00_LearnCsharpJamieChan\LearnCsharpJamieChan\LearnCsharpJamieChan\bin\Debug\netcoreapp3.1\LearnCsharpJamieChan.dll
+C:\Users\Public\csharp\Books\00_LearnCsharpJamieChan\LearnCsharpJamieChan\LearnCsharpJamieChan\bin\Debug\netcoreapp3.1\LearnCsharpJamieChan.pdb
+C:\Users\Public\csharp\Books\00_LearnCsharpJamieChan\LearnCsharpJamieChan\LearnCsharpJamieChan\obj\Debug\netcoreapp3.1\LearnCsharpJamieChan.csproj.AssemblyReference.cache
+C:\Users\Public\csharp\Books\00_LearnCsharpJamieChan\LearnCsharpJamieChan\LearnCsharpJamieChan\obj\Debug\netcoreapp3.1\LearnCsharpJamieChan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\csharp\Books\00_LearnCsharpJamieChan\LearnCsharpJamieChan\LearnCsharpJamieChan\obj\Debug\netcoreapp3.1\LearnCsharpJamieChan.AssemblyInfoInputs.cache
+C:\Users\Public\csharp\Books\00_LearnCsharpJamieChan\LearnCsharpJamieChan\LearnCsharpJamieChan\obj\Debug\netcoreapp3.1\LearnCsharpJamieChan.AssemblyInfo.cs
+C:\Users\Public\csharp\Books\00_LearnCsharpJamieChan\LearnCsharpJamieChan\LearnCsharpJamieChan\obj\Debug\netcoreapp3.1\LearnCsharpJamieChan.csproj.CoreCompileInputs.cache
+C:\Users\Public\csharp\Books\00_LearnCsharpJamieChan\LearnCsharpJamieChan\LearnCsharpJamieChan\obj\Debug\netcoreapp3.1\LearnCsharpJamieChan.dll
+C:\Users\Public\csharp\Books\00_LearnCsharpJamieChan\LearnCsharpJamieChan\LearnCsharpJamieChan\obj\Debug\netcoreapp3.1\LearnCsharpJamieChan.pdb
+C:\Users\Public\csharp\Books\00_LearnCsharpJamieChan\LearnCsharpJamieChan\LearnCsharpJamieChan\obj\Debug\netcoreapp3.1\LearnCsharpJamieChan.genruntimeconfig.cache
