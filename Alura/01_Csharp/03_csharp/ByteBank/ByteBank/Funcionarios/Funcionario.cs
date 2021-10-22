@@ -18,13 +18,16 @@ namespace ByteBank.Funcionarios //entendo o namespace como uma designação, um 
         public string Nome { get; set; } //propriedades
         public string Cpf { get; private set; } //cpf protegido não pode ser setado / acessado sem método interno do Funcionário
         public double Salario { get; protected set; } //protected pode ser acessado somente neste classe e nas derivadas
-
+     
         public Funcionario(double salario, string cpf)
         {
+            Console.WriteLine("Criando Funcionario");
             Salario = salario;
             Cpf = cpf;
             TotalDeFuncionarios++;
         }
+
+       
 
         public abstract void AumentarSalario();
         /* Abstraido o método ele se torna obrigatório ser sobrescrito e sobreposto
@@ -33,7 +36,7 @@ namespace ByteBank.Funcionarios //entendo o namespace como uma designação, um 
             //Salario *= 1.1; // Salario = Salario + (Salario * 0.10);  // 0.10 = 10% // Salario * 0.10 = 10 % do Salario
         }*/
 
-        public abstract double GetBonificacao() //virtual pode ser usado por outra classe
+        public abstract double GetBonificacao(); //virtual pode ser usado por outra classe
         /* Abstraido o método ele se torna obrigatório ser sobrescrito e sobreposto
         {
             return Salario * 0.10;
