@@ -1,0 +1,16 @@
+C:\Users\Public\csharp\LinkedinLearning\002_CsharpEssential1\001\FirstProgram\FirstProgram\bin\Debug\net5.0\FirstProgram.exe
+C:\Users\Public\csharp\LinkedinLearning\002_CsharpEssential1\001\FirstProgram\FirstProgram\bin\Debug\net5.0\FirstProgram.deps.json
+C:\Users\Public\csharp\LinkedinLearning\002_CsharpEssential1\001\FirstProgram\FirstProgram\bin\Debug\net5.0\FirstProgram.runtimeconfig.json
+C:\Users\Public\csharp\LinkedinLearning\002_CsharpEssential1\001\FirstProgram\FirstProgram\bin\Debug\net5.0\FirstProgram.runtimeconfig.dev.json
+C:\Users\Public\csharp\LinkedinLearning\002_CsharpEssential1\001\FirstProgram\FirstProgram\bin\Debug\net5.0\FirstProgram.dll
+C:\Users\Public\csharp\LinkedinLearning\002_CsharpEssential1\001\FirstProgram\FirstProgram\bin\Debug\net5.0\ref\FirstProgram.dll
+C:\Users\Public\csharp\LinkedinLearning\002_CsharpEssential1\001\FirstProgram\FirstProgram\bin\Debug\net5.0\FirstProgram.pdb
+C:\Users\Public\csharp\LinkedinLearning\002_CsharpEssential1\001\FirstProgram\FirstProgram\obj\Debug\net5.0\FirstProgram.csproj.AssemblyReference.cache
+C:\Users\Public\csharp\LinkedinLearning\002_CsharpEssential1\001\FirstProgram\FirstProgram\obj\Debug\net5.0\FirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\csharp\LinkedinLearning\002_CsharpEssential1\001\FirstProgram\FirstProgram\obj\Debug\net5.0\FirstProgram.AssemblyInfoInputs.cache
+C:\Users\Public\csharp\LinkedinLearning\002_CsharpEssential1\001\FirstProgram\FirstProgram\obj\Debug\net5.0\FirstProgram.AssemblyInfo.cs
+C:\Users\Public\csharp\LinkedinLearning\002_CsharpEssential1\001\FirstProgram\FirstProgram\obj\Debug\net5.0\FirstProgram.csproj.CoreCompileInputs.cache
+C:\Users\Public\csharp\LinkedinLearning\002_CsharpEssential1\001\FirstProgram\FirstProgram\obj\Debug\net5.0\FirstProgram.dll
+C:\Users\Public\csharp\LinkedinLearning\002_CsharpEssential1\001\FirstProgram\FirstProgram\obj\Debug\net5.0\ref\FirstProgram.dll
+C:\Users\Public\csharp\LinkedinLearning\002_CsharpEssential1\001\FirstProgram\FirstProgram\obj\Debug\net5.0\FirstProgram.pdb
+C:\Users\Public\csharp\LinkedinLearning\002_CsharpEssential1\001\FirstProgram\FirstProgram\obj\Debug\net5.0\FirstProgram.genruntimeconfig.cache

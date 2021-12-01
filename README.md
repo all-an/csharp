@@ -1,3 +1,6 @@
-# Learning csharp
+For every directory see the internal README
 
-# A few other csharp things
+\ AfewCodes
+\ Alura 
+\ Books
+\ Udemy

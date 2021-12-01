@@ -1,0 +1,7 @@
+C:\Users\Public\csharp\AfewCodes\00_test\00_TestandoBinaryWriter\BinaryWriter\BinaryWriter\bin\Debug\BinaryWriter.exe.config
+C:\Users\Public\csharp\AfewCodes\00_test\00_TestandoBinaryWriter\BinaryWriter\BinaryWriter\bin\Debug\BinaryWriter.exe
+C:\Users\Public\csharp\AfewCodes\00_test\00_TestandoBinaryWriter\BinaryWriter\BinaryWriter\bin\Debug\BinaryWriter.pdb
+C:\Users\Public\csharp\AfewCodes\00_test\00_TestandoBinaryWriter\BinaryWriter\BinaryWriter\obj\Debug\BinaryWriter.csproj.AssemblyReference.cache
+C:\Users\Public\csharp\AfewCodes\00_test\00_TestandoBinaryWriter\BinaryWriter\BinaryWriter\obj\Debug\BinaryWriter.csproj.CoreCompileInputs.cache
+C:\Users\Public\csharp\AfewCodes\00_test\00_TestandoBinaryWriter\BinaryWriter\BinaryWriter\obj\Debug\BinaryWriter.exe
+C:\Users\Public\csharp\AfewCodes\00_test\00_TestandoBinaryWriter\BinaryWriter\BinaryWriter\obj\Debug\BinaryWriter.pdb
